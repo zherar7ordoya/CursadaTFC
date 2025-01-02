@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Camiones>
+	<Camion Id="1">
+		<Patente>AZM-123</Patente>
+		<Marca>Iveco 170 E</Marca>
+	</Camion>
+	<Camion Id="2">
+		<Patente>GRT-777</Patente>
+		<Marca>Mercedes-Benz Accelo 815</Marca>
+	</Camion>
+	<Camion Id="3">
+		<Patente>CXI-789</Patente>
+		<Marca>Agrale A 8700</Marca>
+	</Camion>
+</Camiones>

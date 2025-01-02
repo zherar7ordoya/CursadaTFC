@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Archivos>
+	<Archivo Id="1"><Nombre>Camiones.xml</Nombre></Archivo>
+	<Archivo Id="2"><Nombre>Clientes.xml</Nombre></Archivo>
+	<Archivo Id="3"><Nombre>Empleados.xml</Nombre></Archivo>
+	<Archivo Id="4"><Nombre>Facturas.xml</Nombre></Archivo>
+	<Archivo Id="5"><Nombre>Liquidaciones.xml</Nombre></Archivo>
+	<Archivo Id="6"><Nombre>Mudanzas.xml</Nombre></Archivo>
+	<Archivo Id="7"><Nombre>Ordenes.xml</Nombre></Archivo>
+	<Archivo Id="8"><Nombre>Roles.xml</Nombre></Archivo>
+	<Archivo Id="9"><Nombre>Tarifas.xml</Nombre></Archivo>
+</Archivos>

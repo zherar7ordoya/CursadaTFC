@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bitacoras>
+	<Bitacora Id="1">
+		<FechaHora>2023-10-31 10:59:16</FechaHora>
+		<Usuario>gtordoya</Usuario>
+		<Tipo>Respaldo</Tipo>
+		<Descripcion>Prueba #1</Descripcion>
+	</Bitacora>
+	<Bitacora Id="2">
+		<FechaHora>2023-10-31 11:03:26</FechaHora>
+		<Usuario>gtordoya</Usuario>
+		<Tipo>Respaldo</Tipo>
+		<Descripcion>2da prueba de respaldo luego de la corrección en el mapeo.</Descripcion>
+	</Bitacora>
+</Bitacoras>

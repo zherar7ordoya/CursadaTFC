@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Clientes>
+	<Cliente Id="1">
+		<Categoria>Corporativo</Categoria>
+		<DNI_o_CUIT>99999999</DNI_o_CUIT>
+		<NombreApellido_o_RazonSocial>Sheldon Cooper</NombreApellido_o_RazonSocial>
+		<Direccion>Avenida 1234</Direccion>
+		<Telefono>011-1234-5678</Telefono>
+		<Email>sheldon.cooper@gmail.com</Email>
+	</Cliente>
+	<Cliente Id="2">
+		<Categoria>Empresarial</Categoria>
+		<DNI_o_CUIT>23456789</DNI_o_CUIT>
+		<NombreApellido_o_RazonSocial>Leonard Hofstadter</NombreApellido_o_RazonSocial>
+		<Direccion>Calle 567</Direccion>
+		<Telefono>011-9876-5432</Telefono>
+		<Email>leonard.hofstadter@yahoo.com</Email>
+	</Cliente>
+	<Cliente Id="3">
+		<Categoria>Gubernamental</Categoria>
+		<DNI_o_CUIT>34567890</DNI_o_CUIT>
+		<NombreApellido_o_RazonSocial>Penny Hofstadter</NombreApellido_o_RazonSocial>
+		<Direccion>Plaza 987</Direccion>
+		<Telefono>011-3456-7890</Telefono>
+		<Email>penny123@hotmail.com</Email>
+	</Cliente>
+	<Cliente Id="4">
+		<Categoria>Particular</Categoria>
+		<DNI_o_CUIT>45678901</DNI_o_CUIT>
+		<NombreApellido_o_RazonSocial>Howard Wolowitz</NombreApellido_o_RazonSocial>
+		<Direccion>Callejón 543</Direccion>
+		<Telefono>011-6543-2109</Telefono>
+		<Email>howard.wolowitz@gmail.com</Email>
+	</Cliente>
+	<Cliente Id="5">
+		<Categoria>Corporativo</Categoria>
+		<DNI_o_CUIT>56789012</DNI_o_CUIT>
+		<NombreApellido_o_RazonSocial>Rajesh Koothrappali</NombreApellido_o_RazonSocial>
+		<Direccion>Avenida 876</Direccion>
+		<Telefono>011-7890-1234</Telefono>
+		<Email>raj.koothrappali@yahoo.com</Email>
+	</Cliente>
+	<Cliente Id="6">
+		<Categoria>Empresarial</Categoria>
+		<DNI_o_CUIT>67890123</DNI_o_CUIT>
+		<NombreApellido_o_RazonSocial>Amy Farrah Fowler</NombreApellido_o_RazonSocial>
+		<Direccion>Plaza 654</Direccion>
+		<Telefono>011-8765-4321</Telefono>
+		<Email>amy.fowler@email.com</Email>
+	</Cliente>
+	<Cliente Id="7">
+		<Categoria>Gubernamental</Categoria>
+		<DNI_o_CUIT>78901234</DNI_o_CUIT>
+		<NombreApellido_o_RazonSocial>Bernadette Rostenkowski-Wolowitz</NombreApellido_o_RazonSocial>
+		<Direccion>Calle 210</Direccion>
+		<Telefono>011-7890-9876</Telefono>
+		<Email>bernadetteRW@hotmail.com</Email>
+	</Cliente>
+	<Cliente Id="8">
+		<Categoria>Particular</Categoria>
+		<DNI_o_CUIT>89012345</DNI_o_CUIT>
+		<NombreApellido_o_RazonSocial>Stuart Bloom</NombreApellido_o_RazonSocial>
+		<Direccion>Avenida 4321</Direccion>
+		<Telefono>011-4321-8765</Telefono>
+		<Email>stuart.bloom@gmail.com</Email>
+	</Cliente>
+	<Cliente Id="9">
+		<Categoria>Corporativo</Categoria>
+		<DNI_o_CUIT>90123456</DNI_o_CUIT>
+		<NombreApellido_o_RazonSocial>Wil Wheaton</NombreApellido_o_RazonSocial>
+		<Direccion>Calle 789</Direccion>
+		<Telefono>011-9876-5432</Telefono>
+		<Email>wil.wheaton@yahoo.com</Email>
+	</Cliente>
+</Clientes>

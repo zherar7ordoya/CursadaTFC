@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Ordenes>
+
+	<Orden Id="1">
+		<Estado>Solicitado</Estado>
+		<ServicioFecha>2023-11-01</ServicioFecha>
+		<DireccionOrigen>Calle A, Ciudad 10</DireccionOrigen>
+		<DescripcionLugarCarga>Casa con jardín</DescripcionLugarCarga>
+		<DireccionDestino>Calle B Piso 4 Departamento A, Ciudad 20</DireccionDestino>
+		<DescripcionLugarDescarga>Apartamento en el centro en el complejo Caltech</DescripcionLugarDescarga>
+		<Muebles>
+			<Mueble>
+				<Cantidad>6</Cantidad>
+				<Descripcion>Sillas de comedor</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>1</Cantidad>
+				<Descripcion>Sofá</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>2</Cantidad>
+				<Descripcion>Mesitas auxiliares</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>1</Cantidad>
+				<Descripcion>Estantería para cómics</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>1</Cantidad>
+				<Descripcion>Mesa de experimentos</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>4</Cantidad>
+				<Descripcion>Sillas de laboratorio</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>1</Cantidad>
+				<Descripcion>Tablero de pizarra</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>1</Cantidad>
+				<Descripcion>Silla de escritorio ergonómica</Descripcion>
+			</Mueble>
+		</Muebles>
+		<Observaciones>Muebles frágiles</Observaciones>
+		<KilometrosDistancia>50</KilometrosDistancia>
+		<Monto>200.00</Monto>
+		<ClienteID>1</ClienteID>
+	</Orden>
+
+	<Orden Id="2">
+		<Estado>Pagado</Estado>
+		<ServicioFecha>2024-08-26</ServicioFecha>
+		<DireccionOrigen>Calle X, Ciudad 3</DireccionOrigen>
+		<DescripcionLugarCarga>Casa grande</DescripcionLugarCarga>
+		<DireccionDestino>Calle Y, Ciudad 4</DireccionDestino>
+		<DescripcionLugarDescarga>Apartamento en el centro</DescripcionLugarDescarga>
+		<Muebles>
+			<Mueble>
+				<Cantidad>4</Cantidad>
+				<Descripcion>Mesas de centro</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>6</Cantidad>
+				<Descripcion>Sillas de oficina</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>1</Cantidad>
+				<Descripcion>Escritorio</Descripcion>
+			</Mueble>
+		</Muebles>
+		<Observaciones>Sin restricciones</Observaciones>
+		<KilometrosDistancia>75</KilometrosDistancia>
+		<Monto>350.00</Monto>
+		<ClienteID>2</ClienteID>
+	</Orden>
+	
+	<Orden Id="3">
+		<Estado>Tránsito</Estado>
+		<ServicioFecha>2023-11-03</ServicioFecha>
+		<DireccionOrigen>Calle P, Ciudad 5</DireccionOrigen>
+		<DescripcionLugarCarga>Oficina de empresa</DescripcionLugarCarga>
+		<DireccionDestino>Calle Q, Ciudad 6</DireccionDestino>
+		<DescripcionLugarDescarga>Almacén</DescripcionLugarDescarga>
+		<Muebles>
+			<Mueble>
+				<Cantidad>1</Cantidad>
+				<Descripcion>Escritorio de oficina</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>2</Cantidad>
+				<Descripcion>Sillas ejecutivas</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>3</Cantidad>
+				<Descripcion>Archivadores</Descripcion>
+			</Mueble>
+		</Muebles>
+		<Observaciones>Entrega puntual</Observaciones>
+		<KilometrosDistancia>30</KilometrosDistancia>
+		<Monto>150.00</Monto>
+		<ClienteID>3</ClienteID>
+	</Orden>
+
+	<Orden Id="4">
+		<Estado>Tránsito</Estado>
+		<ServicioFecha>2023-11-04</ServicioFecha>
+		<DireccionOrigen>Calle C, Ciudad 7</DireccionOrigen>
+		<DescripcionLugarCarga>Apartamento en el centro</DescripcionLugarCarga>
+		<DireccionDestino>Calle D, Ciudad 8</DireccionDestino>
+		<DescripcionLugarDescarga>Casa en las afueras</DescripcionLugarDescarga>
+		<Muebles>
+			<Mueble>
+				<Cantidad>2</Cantidad>
+				<Descripcion>Mesas auxiliares</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>2</Cantidad>
+				<Descripcion>Sofás reclinables</Descripcion>
+			</Mueble>
+		</Muebles>
+		<Observaciones>Entrega urgente</Observaciones>
+		<KilometrosDistancia>90</KilometrosDistancia>
+		<Monto>300.00</Monto>
+		<ClienteID>4</ClienteID>
+	</Orden>
+
+	<Orden Id="5">
+		<Estado>Solicitado</Estado>
+		<ServicioFecha>2023-11-05</ServicioFecha>
+		<DireccionOrigen>Calle E, Ciudad 9</DireccionOrigen>
+		<DescripcionLugarCarga>Casa con jardín frontal con rejas bajas</DescripcionLugarCarga>
+		<DireccionDestino>Calle F, Ciudad 10</DireccionDestino>
+		<DescripcionLugarDescarga>Apartamento en el centro</DescripcionLugarDescarga>
+		<Muebles>
+			<Mueble>
+				<Cantidad>4</Cantidad>
+				<Descripcion>Sillas de jardín</Descripcion>
+			</Mueble>
+		</Muebles>
+		<Observaciones>Ninguna</Observaciones>
+		<KilometrosDistancia>25</KilometrosDistancia>
+		<Monto>100.00</Monto>
+		<ClienteID>5</ClienteID>
+	</Orden>
+
+	<Orden Id="6">
+		<Estado>Completado</Estado>
+		<ServicioFecha>2023-11-06</ServicioFecha>
+		<DireccionOrigen>Calle G, Ciudad 11</DireccionOrigen>
+		<DescripcionLugarCarga>Almacén</DescripcionLugarCarga>
+		<DireccionDestino>Calle H, Ciudad 12</DireccionDestino>
+		<DescripcionLugarDescarga>Oficina de empresa</DescripcionLugarDescarga>
+		<Muebles>
+			<Mueble>
+				<Cantidad>3</Cantidad>
+				<Descripcion>Escritorios de oficina</Descripcion>
+			</Mueble>
+			<Mueble>
+				<Cantidad>6</Cantidad>
+				<Descripcion>Sillas de conferencia</Descripcion>
+			</Mueble>
+		</Muebles>
+		<Observaciones>Instalación requerida</Observaciones>
+		<KilometrosDistancia>40</KilometrosDistancia>
+		<Monto>220.00</Monto>
+		<ClienteID>6</ClienteID>
+	</Orden>
+
+	<Orden Id="7">
+		<Estado>Cancelado</Estado>
+		<ServicioFecha>2023-11-07</ServicioFecha>
+		<DireccionOrigen>Calle I, Ciudad 13</DireccionOrigen>
+		<DescripcionLugarCarga>Casa grande</DescripcionLugarCarga>
+		<DireccionDestino>Calle J, Ciudad 14</DireccionDestino>
+		<DescripcionLugarDescarga>Apartamento en el centro</DescripcionLugarDescarga>
+		<Muebles>
+			<Mueble>
+				<Cantidad>1</Cantidad>
+				<Descripcion>Sofá cama</Descripcion>
+			</Mueble>
+		</Muebles>
+		<Observaciones>Cliente no disponible</Observaciones>
+		<KilometrosDistancia>60</KilometrosDistancia>
+		<Monto>0.00</Monto>
+		<ClienteID>7</ClienteID>
+	</Orden>
+
+	<Orden Id="8">
+		<Estado>Solicitado</Estado>
+		<ServicioFecha>2024-08-26</ServicioFecha>
+		<DireccionOrigen>Calle K, Ciudad 15</DireccionOrigen>
+		<DescripcionLugarCarga>Oficina de empresa</DescripcionLugarCarga>
+		<DireccionDestino>Calle L, Ciudad 16</DireccionDestino>
+		<DescripcionLugarDescarga>Casa con jardín</DescripcionLugarDescarga>
+		<Muebles>
+			<Mueble>
+				<Cantidad>2</Cantidad>
+				<Descripcion>Mesas de comedor</Descripcion>
+			</Mueble>
+		</Muebles>
+		<Observaciones>Sin restricciones</Observaciones>
+		<KilometrosDistancia>55</KilometrosDistancia>
+		<Monto>250.00</Monto>
+		<ClienteID>8</ClienteID>
+	</Orden>
+
+	<Orden Id="9">
+		<Estado>Solicitado</Estado>
+		<ServicioFecha>2023-11-09</ServicioFecha>
+		<DireccionOrigen>Calle M, Ciudad 17</DireccionOrigen>
+		<DescripcionLugarCarga>Almacén</DescripcionLugarCarga>
+		<DireccionDestino>Calle N, Ciudad 18</DireccionDestino>
+		<DescripcionLugarDescarga>Casa en las afueras</DescripcionLugarDescarga>
+		<Muebles>
+			<Mueble>
+				<Cantidad>3</Cantidad>
+				<Descripcion>Mesas auxiliares</Descripcion>
+			</Mueble>
+		</Muebles>
+		<Observaciones>Entrega programada</Observaciones>
+		<KilometrosDistancia>70</KilometrosDistancia>
+		<Monto>320.00</Monto>
+		<ClienteID>9</ClienteID>
+	</Orden>
+
+</Ordenes>

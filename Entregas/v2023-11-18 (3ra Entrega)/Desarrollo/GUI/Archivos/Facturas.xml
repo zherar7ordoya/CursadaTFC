@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Facturas>
+	<Factura Id="1">
+		<Fecha>2023-11-07</Fecha>
+		<MontoOrden>100.50</MontoOrden>
+		<Impuesto>21.10</Impuesto>
+		<Total>121.60</Total>
+		<OrdenID>123</OrdenID>
+	</Factura>
+	<Factura Id="2">
+		<Fecha>2023-11-08</Fecha>
+		<MontoOrden>150.00</MontoOrden>
+		<Impuesto>31.50</Impuesto>
+		<Total>181.50</Total>
+		<OrdenID>456</OrdenID>
+	</Factura>
+	<Factura Id="3">
+		<Fecha>2023-11-09</Fecha>
+		<MontoOrden>200.00</MontoOrden>
+		<Impuesto>42.00</Impuesto>
+		<Total>242.00</Total>
+		<OrdenID>789</OrdenID>
+	</Factura>
+	<Factura Id="4">
+		<Fecha>2023-11-10</Fecha>
+		<MontoOrden>120.00</MontoOrden>
+		<Impuesto>25.20</Impuesto>
+		<Total>145.20</Total>
+		<OrdenID>234</OrdenID>
+	</Factura>
+	<Factura Id="5">
+		<Fecha>2023-11-11</Fecha>
+		<MontoOrden>150.00</MontoOrden>
+		<Impuesto>31.50</Impuesto>
+		<Total>181.50</Total>
+		<OrdenID>567</OrdenID>
+	</Factura>
+	<Factura Id="6">
+		<Fecha>2023-11-12</Fecha>
+		<MontoOrden>200.00</MontoOrden>
+		<Impuesto>42.00</Impuesto>
+		<Total>242.00</Total>
+		<OrdenID>890</OrdenID>
+	</Factura>
+	<Factura Id="7">
+		<Fecha>2023-11-13</Fecha>
+		<MontoOrden>150.00</MontoOrden>
+		<Impuesto>31.50</Impuesto>
+		<Total>181.50</Total>
+		<OrdenID>321</OrdenID>
+	</Factura>
+	<Factura Id="8">
+		<Fecha>2023-11-14</Fecha>
+		<MontoOrden>200.00</MontoOrden>
+		<Impuesto>42.00</Impuesto>
+		<Total>242.00</Total>
+		<OrdenID>654</OrdenID>
+	</Factura>
+	<Factura Id="9">
+		<Fecha>2023-11-15</Fecha>
+		<MontoOrden>150.00</MontoOrden>
+		<Impuesto>31.50</Impuesto>
+		<Total>181.50</Total>
+		<OrdenID>987</OrdenID>
+	</Factura>
+	<Factura Id="10">
+		<Fecha>2023-11-16</Fecha>
+		<MontoOrden>200.00</MontoOrden>
+		<Impuesto>42.00</Impuesto>
+		<Total>242.00</Total>
+		<OrdenID>111</OrdenID>
+	</Factura>
+</Facturas>

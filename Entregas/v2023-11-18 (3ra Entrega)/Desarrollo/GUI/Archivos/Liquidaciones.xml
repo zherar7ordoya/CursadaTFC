@@ -1,0 +1,85 @@
+﻿<Liquidaciones>
+	<Liquidacion Id="1">
+		<Fecha>2023-11-07</Fecha>
+		<MontoOrden>1000.50</MontoOrden>
+		<MontoReembolso>150.75</MontoReembolso>
+		<Total>1151.25</Total>
+		<OrdenID>123</OrdenID>
+		<Comprobantes>
+			<Comprobante>
+				<Fecha>2023-11-01</Fecha>
+				<Detalle>Compra de suministros</Detalle>
+				<Monto>200.00</Monto>
+			</Comprobante>
+			<Comprobante>
+				<Fecha>2023-11-03</Fecha>
+				<Detalle>Servicios de mantenimiento</Detalle>
+				<Monto>300.25</Monto>
+			</Comprobante>
+		</Comprobantes>
+	</Liquidacion>
+	
+	<Liquidacion Id="2">
+		<Fecha>2023-11-08</Fecha>
+		<MontoOrden>750.00</MontoOrden>
+		<MontoReembolso>90.50</MontoReembolso>
+		<Total>840.50</Total>
+		<OrdenID>456</OrdenID>
+		<Comprobantes>
+			<Comprobante>
+				<Fecha>2023-11-02</Fecha>
+				<Detalle>Alquiler de equipo</Detalle>
+				<Monto>400.00</Monto>
+			</Comprobante>
+			<Comprobante>
+				<Fecha>2023-11-05</Fecha>
+				<Detalle>Gastos de viaje</Detalle>
+				<Monto>150.50</Monto>
+			</Comprobante>
+		</Comprobantes>
+	</Liquidacion>
+
+	<Liquidacion Id="3">
+		<Fecha>2023-11-10</Fecha>
+		<MontoOrden>1200.75</MontoOrden>
+		<MontoReembolso>180.25</MontoReembolso>
+		<Total>1381.00</Total>
+		<OrdenID>789</OrdenID>
+		<Comprobantes>
+			<Comprobante>
+				<Fecha>2023-11-06</Fecha>
+				<Detalle>Compra de material de oficina</Detalle>
+				<Monto>250.50</Monto>
+			</Comprobante>
+			<Comprobante>
+				<Fecha>2023-11-07</Fecha>
+				<Detalle>Gastos de envío</Detalle>
+				<Monto>50.25</Monto>
+			</Comprobante>
+		</Comprobantes>
+	</Liquidacion>
+	
+	<Liquidacion Id="4">
+		<Fecha>2023-11-15</Fecha>
+		<MontoOrden>900.00</MontoOrden>
+		<MontoReembolso>100.00</MontoReembolso>
+		<Total>1000.00</Total>
+		<OrdenID>567</OrdenID>
+		<Comprobantes>
+			<Comprobante>
+				<Fecha>2023-11-12</Fecha>
+				<Detalle>Pago de servicios públicos</Detalle>
+				<Monto>300.00</Monto>
+			</Comprobante>
+			<Comprobante>
+				<Fecha>2023-11-14</Fecha>
+				<Detalle>Compra de equipo de oficina</Detalle>
+				<Monto>500.00</Monto>
+			</Comprobante>
+		</Comprobantes>
+	</Liquidacion>
+
+
+
+
+</Liquidaciones>

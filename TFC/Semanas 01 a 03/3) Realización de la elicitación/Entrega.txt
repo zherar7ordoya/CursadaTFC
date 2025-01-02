@@ -1,0 +1,14 @@
+Contenido de la presentación
+
+Lo invitamos a entrega su primera versión del TP.
+
+La misma cubre los puntos:
+
+1. Carátula con el Título del proyecto.
+2. Índice (con numeración de página).
+3. Objetivo del Sistema.
+4. Alcance del Sistema (Enumerar y describir todas las Gestiones que el sistema abordará y cómo estas se subdividen en sus módulos constitutivos).
+5. Organigrama de la empresa.
+6. Personas involucradas con el sistema.
+
+Realice su entrega en formato .doc

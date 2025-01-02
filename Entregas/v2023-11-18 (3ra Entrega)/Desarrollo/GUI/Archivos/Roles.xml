@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Roles>
+	<Rol Nombre="Administrador">
+		
+		<!--MENÚ ARCHIVO-->
+		<Permiso>Archivo</Permiso>
+		<Permiso>Camiones</Permiso>
+		<Permiso>Clientes</Permiso>
+		<Permiso>Empleados</Permiso>
+		<Permiso>Facturas</Permiso>
+		<Permiso>Liquidaciones</Permiso>
+		<Permiso>Mudanzas</Permiso>
+		<Permiso>Órdenes</Permiso>
+		<Permiso>Tarifas</Permiso>
+
+		<!--MENÚ VENTA-->
+		<Permiso>Venta</Permiso>
+		<Permiso>Captura</Permiso>
+		<Permiso>Facturación</Permiso>
+
+		<!--MENÚ LOGÍSTICA-->
+		<Permiso>Logística</Permiso>
+		<Permiso>Despacho</Permiso>
+		<Permiso>Liquidación</Permiso>
+
+		<!--MENÚ SEGURIDAD-->
+		<Permiso>Seguridad</Permiso>
+		<Permiso>Roles</Permiso>
+		<Permiso>Permisos</Permiso>
+		<Permiso>Respaldos</Permiso>
+		<Permiso>Restauraciones</Permiso>
+
+		<!--MENÚ SISTEMA-->
+		<Permiso>Sistema</Permiso>
+		<Permiso>Dashboard</Permiso>
+		<Permiso>Acerca</Permiso>
+		<Permiso>Salir</Permiso>
+	
+	</Rol>
+
+	
+	<Rol Nombre="Cajero">
+		<Permiso>Venta</Permiso>
+		<Permiso>Facturación</Permiso>
+		<Permiso>About</Permiso>
+	</Rol>
+
+	
+	<Rol Nombre="Chofer">
+		<Permiso>About</Permiso>
+	</Rol>
+
+	
+	<Rol Nombre="Estibador">
+		<Permiso>About</Permiso>
+	</Rol>
+
+
+	<Rol Nombre="Gerente de Operaciones">
+		<!-- MENÚ ABOUT... -->
+		<Permiso>About</Permiso>
+		<!-- MENÚ ADMINISTRACIÓN -->
+		<Permiso>Administración</Permiso>
+		<Permiso>Camiones</Permiso>
+		<Permiso>Clientes</Permiso>
+		<Permiso>Empleados</Permiso>
+		<Permiso>Facturas</Permiso>
+		<Permiso>Liquidaciones</Permiso>
+		<Permiso>Mudanzas</Permiso>
+		<Permiso>Órdenes</Permiso>
+		<Permiso>Tarifas</Permiso>
+		<!-- MENÚ LOGÍSTICA -->
+		<Permiso>Logística</Permiso>
+		<Permiso>Despacho</Permiso>
+		<Permiso>Liquidación</Permiso>
+		<!-- MENÚ VENTA -->
+		<Permiso>Venta</Permiso>
+		<Permiso>Captura</Permiso>
+		<Permiso>Facturación</Permiso>
+		<Permiso>Dashboard</Permiso>
+	</Rol>
+
+
+	<Rol Nombre="Jefe de Logística">
+		<!-- MENÚ ABOUT... -->
+		<Permiso>About</Permiso>
+		<!-- MENÚ ADMINISTRACIÓN -->
+		<Permiso>Administración</Permiso>
+		<Permiso>Camiones</Permiso>
+		<Permiso>Empleados</Permiso>
+		<Permiso>Liquidaciones</Permiso>
+		<Permiso>Mudanzas</Permiso>
+		<Permiso>Órdenes</Permiso>
+		<!-- MENÚ LOGÍSTICA -->
+		<Permiso>Logística</Permiso>
+		<Permiso>Despacho</Permiso>
+		<Permiso>Liquidación</Permiso>
+	</Rol>
+	
+	
+	<Rol Nombre="Jefe de Venta">
+		<!-- MENÚ ABOUT... -->
+		<Permiso>About</Permiso>
+		<!-- MENÚ ADMINISTRACIÓN -->
+		<Permiso>Administración</Permiso>
+		<Permiso>Clientes</Permiso>
+		<Permiso>Empleados</Permiso>
+		<Permiso>Facturas</Permiso>
+		<Permiso>Órdenes</Permiso>
+		<Permiso>Tarifas</Permiso>
+		<!-- MENÚ VENTA -->
+		<Permiso>Venta</Permiso>
+		<Permiso>Captura</Permiso>
+		<Permiso>Facturación</Permiso>
+		<Permiso>Dashboard</Permiso>
+	</Rol>
+
+
+	<Rol Nombre="Logístico">
+		<Permiso>Logística</Permiso>
+		<Permiso>Despacho</Permiso>
+		<Permiso>Liquidación</Permiso>
+		<Permiso>About</Permiso>
+	</Rol>
+
+	
+	<Rol Nombre="Vendedor">
+		<Permiso>Venta</Permiso>
+		<Permiso>Captura</Permiso>
+		<Permiso>About</Permiso>
+	</Rol>
+</Roles>
